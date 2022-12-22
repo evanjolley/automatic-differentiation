@@ -1,0 +1,21 @@
+[project]
+name = "cs107-team38-ad"
+version = "0.3"
+authors = [
+  { name="evj137", email="evanjolley@college.harvard.edu" },
+  { name="sis867", email="simranshah@college.harvard.edu" },
+  { name="niv122", email="nick_vonimhoff@college.harvard.edu" },
+  { name="deo721", email="dobiajulu@college.harvard.edu" },
+]
+description = "Team 38 Milestone 2 Autodifferentiation Package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Documentation" = "https://code.harvard.edu/CS107/team38/tree/main"
+"Requirements" = "https://code.harvard.edu/CS107/team38/blob/main/requirements.txt"

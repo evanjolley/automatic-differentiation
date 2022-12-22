@@ -1,0 +1,8 @@
+.DS_Store
+./tests/__pycache__
+./tests/.pytest_cache
+./autodiff_package/__pycache__
+.dist/
+.src/ADteam38.egg-info
+./src/autodiff_package/__pycache__/
+

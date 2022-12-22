@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/autodiff_package/__init__.py
+src/autodiff_package/__main__.py
+src/autodiff_package/differentiate.py
+src/autodiff_package/functions.py
+src/autodiff_package/node.py
+src/cs107_team38_ad.egg-info/PKG-INFO
+src/cs107_team38_ad.egg-info/SOURCES.txt
+src/cs107_team38_ad.egg-info/dependency_links.txt
+src/cs107_team38_ad.egg-info/top_level.txt
