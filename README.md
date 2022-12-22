@@ -5,7 +5,7 @@
 
 # Autodiff Package
 
-This is a package you can use to calculate derivatives using automatic differentiation.
+This is a package you can use to calculate derivatives using automatic differentiation. It was created as the final project of Harvard's CS107 - Systems Development for Computational Science. Thank you to Simran Shah, Debbie Obiajulu, and Nick Von Imhof for pulling what is my personal record latest night in college to get this in before the deadline... that was extended at 10 am the next morning.
 
 # Broader Impact and Inclusivity Statement
 
